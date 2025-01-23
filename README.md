@@ -16,3 +16,11 @@
 8.Write a program to calculate square of given number and Numbers are taken from user through keyboard.<br>
 9.Write a program to calculate area of rectangle and Numbers are taken from user through keyboard.<br>
 10.Write a program to find the area of circle and Take radius of circle from the user.<br>
+
+<b> Assignment_2 </b>
+<br>
+1.Write a program to calculate average of three integers and Numbers are given by user.<br>
+2.Write a program to calculate circumference of a circle.<br>
+3.Write a program to calculate simple interest.<br>
+4.Write a program to calculate volume of a cuboid.<br>
+5.Write a program to ask user about the cost price and selling price banana per dozen and Calculate the profit or loss earned upon selling 25 bananas.<br>
