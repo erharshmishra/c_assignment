@@ -24,3 +24,12 @@
 3.Write a program to calculate simple interest.<br>
 4.Write a program to calculate volume of a cuboid.<br>
 5.Write a program to ask user about the cost price and selling price banana per dozen and Calculate the profit or loss earned upon selling 25 bananas.<br>
+
+<b> Assignment_3 </b>
+<br>
+1.Write a program to input a character from the user and print its ASCII code.<br>
+2.Write a program to input an ASCII code from the user and print its corresponding character.<br>
+3.Write a program to input three characters from the user and Display characters with their corresponding ASCII codes.<br>
+4.Write a program to print last digit of a given number.<br>
+5.Write a program to print a given number without its last digit.<br>
+
