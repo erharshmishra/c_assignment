@@ -33,3 +33,13 @@
 4.Write a program to print last digit of a given number.<br>
 5.Write a program to print a given number without its last digit.<br>
 
+<b> Assignment_4 </b>
+<br>
+1.Write a program to calculate size of a character constant.<br>
+2.Write a program to calculate size of a real constant.<br>
+3.Write a program with one char type variable, Assign 'A' in the variable and Now change the value of variable from 'A' to 'B' using increment operator.<br>
+4.Write a program to swap values of two int variables.<br>
+5.Write a program to swap values of two int variables without using a third variable.<br>
+6.Write a program to swap values of two int variables without using a third variable and +,- operators.<br>
+7.Write a program to swap values of two int variables without using a third variable and arithmetic operators.<br>
+8.Write a program to swap values of two int variables in single line arithmetic expression.<br>
