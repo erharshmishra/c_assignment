@@ -17,7 +17,7 @@
 9.Write a program to calculate area of rectangle and Numbers are taken from user through keyboard.<br>
 10.Write a program to find the area of circle and Take radius of circle from the user.<br>
 
-<b> Assignment_2 </b>   
+<b> Assignment_2 </b>
 <br>
 1.Write a program to calculate average of three integers and Numbers are given by user.<br>
 2.Write a program to calculate circumference of a circle.<br>
@@ -43,3 +43,11 @@
 6.Write a program to swap values of two int variables without using a third variable and +,- operators.<br>
 7.Write a program to swap values of two int variables without using a third variable and arithmetic operators.<br>
 8.Write a program to swap values of two int variables in single line arithmetic expression.<br> 
+
+<b> Assignment_5 </b>
+<br>
+1.Write a program to input a three digit number and display the sum of the digits.<br>
+2.Write a program to find ASCII code of the character '+'.<br>
+3.Write a program to print size of an int, a float, a char and a double type variable.<br>
+4.Write a program to make the last digit of a number stored in a variable as zero and For example if x = 2345 then make it 2340.<br>
+5.Write a program to input a number user and also input a digit, Append a digit in the number and print the resulting number and For example x = 234 and digit = 9 then resulting number is 2349.<br>
