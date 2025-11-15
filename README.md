@@ -1,7 +1,7 @@
 # c_assignment  
 
 ## Assignment_0
-- Write a program to print Hello World!.
+- Write a program to print Hello World!. 
 
 ## Assignment_1
 - Write a program to print Hello Students on the screen.
