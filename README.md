@@ -45,3 +45,10 @@
 - Write a program to print size of an int, a float, a char and a double type variable.
 - Write a program to make the last digit of a number stored in a variable as zero and For example if x = 2345 then make it 2340.
 - Write a program to input a number user and also input a digit, Append a digit in the number and print the resulting number and For example x = 234 and digit = 9 then resulting number is 2349.
+
+## Assignment_6
+- Assume price of 1 USD in INR 84.23 and Write a program to take amount in INR and convert it into USD.
+- Write a program to take a three digit number from the user and rotate its digits by one position towards the right.
+- What will be output x = 10>8>4.
+- What will be output x = !2>-2.
+- What will be output x = 3<0&&5>0.
