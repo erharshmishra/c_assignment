@@ -52,3 +52,10 @@
 - What will be output x = 10>8>4.
 - What will be output x = !2>-2.
 - What will be output x = 3<0&&5>0.
+
+## Assignment_7
+- Write a program to check whether a given number is positive or non positive.
+- Write a program to check whether a given number is divisible by 5 or not.
+- Write a program to check whether a given number is an even number or an odd number.
+- Write a program to check whether a given number is an even number or an odd number without using % operator.
+- Write a program to check whether a given number is an even number or an odd number using bitwise operator.
