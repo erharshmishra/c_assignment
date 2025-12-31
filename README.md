@@ -59,4 +59,10 @@
 - Write a program to check whether a given number is an even number or an odd number.
 - Write a program to check whether a given number is an even number or an odd number without using % operator.
 - Write a program to check whether a given number is an even number or an odd number using bitwise operator.
-  
+
+## Assignment_8
+- Write a program to check whether a given number is a three digit number or not.
+- Write a program to print greater between two numbers and Print one number if both are the same.
+- Write a program to check whether roots of a given quadratic equation are real & distinct, real & equal or imaginary roots.
+- Write a program to check wether a given year is a leap year or not.
+- Write a program to find the greatest among three given numbers and Print number once if the greatest number appears two or three times.
