@@ -66,3 +66,10 @@
 - Write a program to check whether roots of a given quadratic equation are real & distinct, real & equal or imaginary roots.
 - Write a program to check wether a given year is a leap year or not.
 - Write a program to find the greatest among three given numbers and Print number once if the greatest number appears two or three times.
+
+## Assignment_9
+- Write a program which takes the cost price and selling price of a product from the user and Now calculate and print profit or loss percentage.
+- Write a program to take marks of 5 subjects from the user, Assume marks given out of 100 and passing marks is 33 and Now display whether the candidate passed the examination or failed.
+- Write a program to check whether a given alphabet is in uppercase or lowercase.
+- Write a program to check whether a given number is divisible by 3 and 2.
+- Write a program to check whether a given number is divisible by 7 or divisible by 3.
