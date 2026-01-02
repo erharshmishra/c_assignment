@@ -73,3 +73,9 @@
 - Write a program to check whether a given alphabet is in uppercase or lowercase.
 - Write a program to check whether a given number is divisible by 3 and 2.
 - Write a program to check whether a given number is divisible by 7 or divisible by 3.
+
+## Assignment_10
+- Write a program to check whether a given number is positive, negative or zero.
+- Write a program to check whether a given character is an alphabet (uppercase), an alphabet (lowercase), a digit or a special character.
+- Write a program which takes the length of the sides of triangle as an input and Display whether the triangle is valid or not.
+- Write a program which takes the month number as an input and display number of days in that month.
