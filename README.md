@@ -79,3 +79,15 @@
 - Write a program to check whether a given character is an alphabet (uppercase), an alphabet (lowercase), a digit or a special character.
 - Write a program which takes the length of the sides of triangle as an input and Display whether the triangle is valid or not.
 - Write a program which takes the month number as an input and display number of days in that month.
+
+## Assignment_11
+- Write a program to print MySirG 5 times on the screen.
+- Write a program to print the first 10 natural numbers.
+- Write a program to print the first 10 natural numbers in reverse order.
+- Write a program to print the first 10 odd natural numbers.
+- Write a program to print the first 10 odd natural numbers in reverse order.
+- Write a program to print the first 10 even natural numbers.
+- Write a program to print the first 10 even natural numbers in reverse order.
+- Write a program to print squares of the first 10 natural numbers.
+- Write a program to print cubes of the first 10 natural numbers.
+- Write a program to print a table of 5.
