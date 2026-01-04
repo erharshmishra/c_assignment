@@ -91,3 +91,15 @@
 - Write a program to print squares of the first 10 natural numbers.
 - Write a program to print cubes of the first 10 natural numbers.
 - Write a program to print a table of 5.
+
+## Assignment_12
+- Write a program to print MySirG N times on the screen.
+- Write a program to print the first N natural numbers.
+- Write a program to print the first N natural numbers in reverse order.
+- Write a program to print the first N odd natural numbers.
+- Write a program to print the first N odd natural numbers in reverse order.
+- Write a program to print the first N even natural numbers.
+- Write a program to print the first N even natural numbers in reverse order.
+- Write a program to print squares of the first N natural numbers.
+- Write a program to print cubes of the first N natural numbers.
+- Write a program to print a table of N.
