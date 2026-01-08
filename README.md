@@ -103,3 +103,10 @@
 - Write a program to print squares of the first N natural numbers.
 - Write a program to print cubes of the first N natural numbers.
 - Write a program to print a table of N.
+
+## Assignment_13
+- Write a program to calculate sum of the first N natural numbers.
+- Write a program to calculate sum of the first N even natural numbers.
+- Write a program to calculate sum of the first N odd natural numbers.
+- Write a program to calculate sum of squares of first N natural numbers.
+- Write a program to calculate sum of cubes of first N natural numbers.
