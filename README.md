@@ -110,3 +110,10 @@
 - Write a program to calculate sum of the first N odd natural numbers.
 - Write a program to calculate sum of squares of first N natural numbers.
 - Write a program to calculate sum of cubes of first N natural numbers.
+
+## Assignment_14
+- Write a program to calculate factorial of a number.
+- Write a program to count digits in a given number.
+- Write a program to check whether a given number is a prime number or not.
+- Write a program to calculate LCM of two number.
+- Write a program to reverse a given number.
