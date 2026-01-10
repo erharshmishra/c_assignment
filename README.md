@@ -117,3 +117,10 @@
 - Write a program to check whether a given number is a prime number or not.
 - Write a program to calculate LCM of two number.
 - Write a program to reverse a given number.
+
+## Assignment_15
+- Write a program to print all the prime numbers under 100.
+- Write a program to print all numbers between two given number.
+- Write a program to find next prime number of given number.
+- Write a program to calculate HCF of two numbers.
+- Write a program to check whether two given numbers are co-prime or not.
