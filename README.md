@@ -124,3 +124,11 @@
 - Write a program to find next prime number of given number.
 - Write a program to calculate HCF of two numbers.
 - Write a program to check whether two given numbers are co-prime or not.
+
+## Assignment_16
+- Write a program to check whether a given number is prime or not.
+- Write a program to find the nth term of the fibonacci series.
+- Write a program to print first N terms of fibonacci series.
+- Write a program to check whether a given number is there in the fibonacci series or not.
+- Write a program to check whether a given number is an armstrong number or not.
+- Write a program to print all armstrong numbers under 1000.
