@@ -132,3 +132,15 @@
 - Write a program to check whether a given number is there in the fibonacci series or not.
 - Write a program to check whether a given number is an armstrong number or not.
 - Write a program to print all armstrong numbers under 1000.
+
+## Assignment_17
+- Star Pattern.
+- Star Pattern.
+- Star Pattern.
+- Star Pattern.
+- Star Pattern.
+- Star Pattern.
+- Star Pattern.
+- Star Pattern.
+- Star Pattern.
+- Star Pattern.
