@@ -144,3 +144,15 @@
 - Star Pattern.
 - Star Pattern.
 - Star Pattern.
+
+## Assignment_18
+- Star Pattern.
+- Star Pattern.
+- Star Pattern.
+- Star Pattern.
+- Star Pattern.
+- Star Pattern.
+- Star Pattern.
+- Star Pattern.
+- Star Pattern.
+- Star Pattern.
