@@ -156,3 +156,10 @@
 - Star Pattern.
 - Star Pattern.
 - Star Pattern.
+
+## Assignment_19
+- Write a program which takes the month number as an input and display number of days in that month.
+- Write a menu driven program with the following options : Addition, Subtraction, Multiplication, Division and Exit.
+- Write a program which takes the day number a week and displays a unique greeting message for the day.
+- Write a menu driven program with the following options : Check whether a given set of three numbers are lengths of isosceles triangle or not, Check whether a given set of three numbers are lengths of sides of right angled triangle or not, Check whether a given set of three numbers are equilateral triangle or not and exit.
+- Convert the following if-else-if construct into switch case.
