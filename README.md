@@ -163,3 +163,10 @@
 - Write a program which takes the day number a week and displays a unique greeting message for the day.
 - Write a menu driven program with the following options : Check whether a given set of three numbers are lengths of isosceles triangle or not, Check whether a given set of three numbers are lengths of sides of right angled triangle or not, Check whether a given set of three numbers are equilateral triangle or not and exit.
 - Convert the following if-else-if construct into switch case.
+
+## Assignment_20
+- Write a program to find and display grade obtained by a student in a test, Grading specifications are as follows : Marks from 90 to 100 : Grade A, Marks from 80 to less than 90 : Grade B, Marks from 70 to less than 80 : Grade C, Marks from 60 to less than 70 : Grade D, Marks from 50 to less than 60 : Grade E, Marks below 50 : Grade F and Marks greater than 100 or less than 0 : Invalid.
+- Write a menu driven program with the following options : Factorial of a number, Check Even and Odd, Area of circle, Sum of first N natural number, Exit.
+- Write a program to check whether a given chracter is uppercase alphabet or lowercase alphabet or some other special character, using switch statement.
+- Write a progam to check whether a given character is vowel or consonant or some other special character, using switch case statement.
+- Write a menu driven program with the following options : Calculate LCM of two number, Calculate sum of the digits of a number, Volume of a cuboid, Check whether a given number is prime or not and Exit.
