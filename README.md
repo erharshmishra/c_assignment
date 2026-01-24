@@ -170,3 +170,10 @@
 - Write a program to check whether a given chracter is uppercase alphabet or lowercase alphabet or some other special character, using switch statement.
 - Write a progam to check whether a given character is vowel or consonant or some other special character, using switch case statement.
 - Write a menu driven program with the following options : Calculate LCM of two number, Calculate sum of the digits of a number, Volume of a cuboid, Check whether a given number is prime or not and Exit.
+
+## Assignment_21
+- Write a function to calculate the area of a circle [TSRS].
+- Write a function to calculate simple interest [TSRS].
+- Write a function to check whether a given number is even or odd and Return 1 if the number is even,otherwise return 0 [TSRS].
+- Write a function to print first N natural numbers [TSRN].
+- Write a function to print first N odd natural numbers [TSRN].
