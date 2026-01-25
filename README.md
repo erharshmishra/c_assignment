@@ -177,3 +177,10 @@
 - Write a function to check whether a given number is even or odd and Return 1 if the number is even,otherwise return 0 [TSRS].
 - Write a function to print first N natural numbers [TSRN].
 - Write a function to print first N odd natural numbers [TSRN].
+
+## Assignment_22
+- Write a function to calculate the factorial of a number [TSRS].
+- Write a function to calculate the number of combinations one can make from n items and r selected at a time [TSRS].
+- Write a function to calculate the number of arrangement one can make from n items and r selected at a time [TSRS].
+- Write a function to check whether a given number contains a given digit or not.
+- Write a function to print all prime factor of a given number and For example, if the number is 36 then your result should be 2,2,3,3 [TSRN].
