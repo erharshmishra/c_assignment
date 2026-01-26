@@ -184,3 +184,10 @@
 - Write a function to calculate the number of arrangement one can make from n items and r selected at a time [TSRS].
 - Write a function to check whether a given number contains a given digit or not.
 - Write a function to print all prime factor of a given number and For example, if the number is 36 then your result should be 2,2,3,3 [TSRN].
+
+## Assignment_23
+- Write a function to calculate LCM of two numbers [TSRS].
+- Write a function to calculate HCF of two numbers [TSRS].
+- Write a function to check whether a given number is prime or not [TSRS].
+- Write a function to find the next prime number of a given number [TSRS].
+- Write a function to print first N prime numbers [TSTN].
