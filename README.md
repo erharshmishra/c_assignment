@@ -191,3 +191,10 @@
 - Write a function to check whether a given number is prime or not [TSRS].
 - Write a function to find the next prime number of a given number [TSRS].
 - Write a function to print first N prime numbers [TSTN].
+
+## Assignment_24
+- Write a function to print all prime numbers between two given numbers [TSRN].
+- Write a function to print first N terms of Fibonacci series [TSRN].
+- Write a function to print PASCAL triangle [TSRN].
+- Write a function to print all armstrong numbers between two given numbers [TSRN].
+- Write a function to find the sum of first N terms of the series [TSRS].
