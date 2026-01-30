@@ -198,3 +198,10 @@
 - Write a function to print PASCAL triangle [TSRN].
 - Write a function to print all armstrong numbers between two given numbers [TSRN].
 - Write a function to find the sum of first N terms of the series [TSRS].
+
+## Assignment_25
+- Write a recursive function to print first N natural numbers.
+- Write a recursive function to print first N natural numbers in reverse order.
+- Write a recursive function to print first N odd natural numbers.
+- Write a recursive function to print first N odd natural numbers in reverse order.
+- Write a recursive function to print first N even natural numbers.
