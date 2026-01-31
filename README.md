@@ -205,3 +205,10 @@
 - Write a recursive function to print first N odd natural numbers.
 - Write a recursive function to print first N odd natural numbers in reverse order.
 - Write a recursive function to print first N even natural numbers.
+
+## Assignment_26
+- Write a recursive function to print first N even natural numbers in reverse order.
+- Write a recursive function to print squares of first N natural numbers.
+- Write a recursive function to print binary of a given decimal number.
+- Write a recursive function to print octal of a given decimal number.
+- Write a recursive function to print reverse of a given number.
