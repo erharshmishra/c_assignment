@@ -212,3 +212,10 @@
 - Write a recursive function to print binary of a given decimal number.
 - Write a recursive function to print octal of a given decimal number.
 - Write a recursive function to print reverse of a given number.
+
+## Assignment_27
+- Write a recursive function to calculate sum of first N natural numbers.
+- Write a recursive function to calculate sum of first N odd natural numbers.
+- Write a recursive function to calculate sum of first N even natural numbers.
+- Write a recursive function to calculate sum of squares of first N natural numbers.
+- Write a recursive function to calculate sum of digits of a given number.
