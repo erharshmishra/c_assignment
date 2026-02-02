@@ -219,3 +219,10 @@
 - Write a recursive function to calculate sum of first N even natural numbers.
 - Write a recursive function to calculate sum of squares of first N natural numbers.
 - Write a recursive function to calculate sum of digits of a given number.
+
+## Assignment_28
+- Write a recursive function to calculate factorial of a given number.
+- Write a recursive function to calculate HCF of two given number.
+- Write a recursive function to print first N terms of fibonacci series.
+- Write a program in C to count the digits of a given number using recursion.
+- Write a program in C to calculate the power of any number using recursion.
