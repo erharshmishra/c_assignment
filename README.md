@@ -226,3 +226,10 @@
 - Write a recursive function to print first N terms of fibonacci series.
 - Write a program in C to count the digits of a given number using recursion.
 - Write a program in C to calculate the power of any number using recursion.
+
+# Assignment_29
+- Write a program to calculate the sum of numbers stored in an array of size 10. Take array values from the user.
+- Write a program to calculate the average of numbers stored in an array of size 10. Take array values from the user.
+- Write a program to calculate the sum of all even numbers and sum of all odd number stored in an array of size 10. Take array values from the user.
+- Write a program to find the greatest number stored in an array of size 10. Take array values from the user.
+- Write a program to find the smallest number stored in an array of size 10. Take array values from the user.
