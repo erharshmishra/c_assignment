@@ -233,3 +233,10 @@
 - Write a program to calculate the sum of all even numbers and sum of all odd number stored in an array of size 10. Take array values from the user.
 - Write a program to find the greatest number stored in an array of size 10. Take array values from the user.
 - Write a program to find the smallest number stored in an array of size 10. Take array values from the user.
+
+# Assignment_30
+- Write a program to sort elements of an array of size 10. Take array values from the user.
+- Write a program to find second largest in an array. Take array values from the user.
+- Write a program to find second smallest number in an array. Take array values from the user.
+- Write a program to sort elements in descending order an array of size 10. Take array values from the user.
+- Write a program in C to copy the elements of one array into another array. Take array values from the user.
