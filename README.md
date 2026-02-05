@@ -240,3 +240,10 @@
 - Write a program to find second smallest number in an array. Take array values from the user.
 - Write a program to sort elements in descending order an array of size 10. Take array values from the user.
 - Write a program in C to copy the elements of one array into another array. Take array values from the user.
+
+# Assignment_31
+- Write a function to find the greatest number from the given array of any size [TSRS].
+- Write a function to find the smallest number from the given array of any size [TSRS].
+- Write a function to sort an array of any size [TSRN].
+- Write a function to rotate an array by n positons in d direction and The d is an indicative value for left or right : For example, if array size 5 is [32, 29, 40, 12, 70]; n is 2 and d is left, then the resulting array will be [40, 12, 70, 32, 29].
+- Write a function to find the first occurrence of adjacent duplicate values in the array and Function has to return the value of the element.
