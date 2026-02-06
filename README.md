@@ -247,3 +247,10 @@
 - Write a function to sort an array of any size [TSRN].
 - Write a function to rotate an array by n positons in d direction and The d is an indicative value for left or right : For example, if array size 5 is [32, 29, 40, 12, 70]; n is 2 and d is left, then the resulting array will be [40, 12, 70, 32, 29].
 - Write a function to find the first occurrence of adjacent duplicate values in the array and Function has to return the value of the element.
+
+# Assignment_32
+- Write a function to swap two elements of given array with specified indices.
+- Write a function to count a total number of duplicate elements in an array.
+- Write a function to print all unique elements in an array.
+- Write a function to merge two arrays of the same size sorted in descending order.
+- Write a function to count the frequency of each element of an array.
