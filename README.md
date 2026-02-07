@@ -254,3 +254,8 @@
 - Write a function to print all unique elements in an array.
 - Write a function to merge two arrays of the same size sorted in descending order.
 - Write a function to count the frequency of each element of an array.
+
+# Assignment_33
+- Write a progrma to calculate the sum of two matrices each of order 3x3.
+- Write a program to calculate the product of two matrices each of order 3x3.
+- Write a program to print the transpose of a given matrix.
