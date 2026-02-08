@@ -259,3 +259,10 @@
 - Write a progrma to calculate the sum of two matrices each of order 3x3.
 - Write a program to calculate the product of two matrices each of order 3x3.
 - Write a program to print the transpose of a given matrix.
+
+# Assignment_34
+- Write a program to calculate the length of the string ( without using builtin method ).
+- Write a program to count the occurrence of a given character in a given string.
+- Write a program to count vowels in a given string.
+- Write a program to count spaces in a given srting.
+- Write a program to convert a given string into uppercase.
