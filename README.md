@@ -227,47 +227,47 @@
 - Write a program in C to count the digits of a given number using recursion.
 - Write a program in C to calculate the power of any number using recursion.
 
-# Assignment_29
+## Assignment_29
 - Write a program to calculate the sum of numbers stored in an array of size 10. Take array values from the user.
 - Write a program to calculate the average of numbers stored in an array of size 10. Take array values from the user.
 - Write a program to calculate the sum of all even numbers and sum of all odd number stored in an array of size 10. Take array values from the user.
 - Write a program to find the greatest number stored in an array of size 10. Take array values from the user.
 - Write a program to find the smallest number stored in an array of size 10. Take array values from the user.
 
-# Assignment_30
+## Assignment_30
 - Write a program to sort elements of an array of size 10. Take array values from the user.
 - Write a program to find second largest in an array. Take array values from the user.
 - Write a program to find second smallest number in an array. Take array values from the user.
 - Write a program to sort elements in descending order an array of size 10. Take array values from the user.
 - Write a program in C to copy the elements of one array into another array. Take array values from the user.
 
-# Assignment_31
+## Assignment_31
 - Write a function to find the greatest number from the given array of any size [TSRS].
 - Write a function to find the smallest number from the given array of any size [TSRS].
 - Write a function to sort an array of any size [TSRN].
 - Write a function to rotate an array by n positons in d direction and The d is an indicative value for left or right : For example, if array size 5 is [32, 29, 40, 12, 70]; n is 2 and d is left, then the resulting array will be [40, 12, 70, 32, 29].
 - Write a function to find the first occurrence of adjacent duplicate values in the array and Function has to return the value of the element.
 
-# Assignment_32
+## Assignment_32
 - Write a function to swap two elements of given array with specified indices.
 - Write a function to count a total number of duplicate elements in an array.
 - Write a function to print all unique elements in an array.
 - Write a function to merge two arrays of the same size sorted in descending order.
 - Write a function to count the frequency of each element of an array.
 
-# Assignment_33
+## Assignment_33
 - Write a progrma to calculate the sum of two matrices each of order 3x3.
 - Write a program to calculate the product of two matrices each of order 3x3.
 - Write a program to print the transpose of a given matrix.
 
-# Assignment_34
+## Assignment_34
 - Write a program to calculate the length of the string ( without using builtin method ).
 - Write a program to count the occurrence of a given character in a given string.
 - Write a program to count vowels in a given string.
 - Write a program to count spaces in a given srting.
 - Write a program to convert a given string into uppercase.
 
-# Assignment_35
+## Assignment_35
 - Write a program to convert a given string into lowercase.
 - Write a program to reverse the string.
 - Write a program in c to count the total number of alphabets, digits and special character in a string.
