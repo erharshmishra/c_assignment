@@ -266,3 +266,10 @@
 - Write a program to count vowels in a given string.
 - Write a program to count spaces in a given srting.
 - Write a program to convert a given string into uppercase.
+
+# Assignment_35
+- Write a program to convert a given string into lowercase.
+- Write a program to reverse the string.
+- Write a program in c to count the total number of alphabets, digits and special character in a string.
+- Write a program in c to copy one string to another char array.
+- Write a program to find first occurence of a given character in a given string.
