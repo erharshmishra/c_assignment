@@ -273,3 +273,10 @@
 - Write a program in c to count the total number of alphabets, digits and special character in a string.
 - Write a program in c to copy one string to another char array.
 - Write a program to find first occurence of a given character in a given string.
+
+## Assignment_36
+- Write a function to calculate length of the string.
+- Write a function to reverse a string.
+- Write a function to compare two strings.
+- Write a function to transform string into uppercase.
+- Write a function to transform string into lowercase.
