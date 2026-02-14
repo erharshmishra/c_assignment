@@ -280,3 +280,10 @@
 - Write a function to compare two strings.
 - Write a function to transform string into uppercase.
 - Write a function to transform string into lowercase.
+
+## Assignment_37
+- Write a function to count vowels in a given string.
+- Write a function to find a character in a given string : Return index of first occurrence of given character and Return -1 if character not found.
+- Write a function to find a character in a given string between specified indices and Start index and end index.
+- Write a function to swap two characters of a given string with specified indices.
+- Write a function to check whether a given string is an alphanumeric string or not and Alphanumeric string must contain atleast one alphabet and one digit.
