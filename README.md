@@ -1,5 +1,4 @@
 # c_assignment
-
 ## Assignment_0
 - Write a program to print Hello World!. 
 
